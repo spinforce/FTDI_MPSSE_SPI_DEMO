@@ -1,0 +1,10 @@
+C:\Users\Joe\documentsIBMLocal\VisualStudio\c#\FTDI_MPSSE_SPI_Test\FTDI_MPSSE_SPI_Test\bin\Debug\FTDI_MPSSE_SPI_Test.exe.config
+C:\Users\Joe\documentsIBMLocal\VisualStudio\c#\FTDI_MPSSE_SPI_Test\FTDI_MPSSE_SPI_Test\bin\Debug\FTDI_MPSSE_SPI_Test.exe
+C:\Users\Joe\documentsIBMLocal\VisualStudio\c#\FTDI_MPSSE_SPI_Test\FTDI_MPSSE_SPI_Test\bin\Debug\FTDI_MPSSE_SPI_Test.pdb
+C:\Users\Joe\documentsIBMLocal\VisualStudio\c#\FTDI_MPSSE_SPI_Test\FTDI_MPSSE_SPI_Test\bin\Debug\FTD2XX_NET.dll
+C:\Users\Joe\documentsIBMLocal\VisualStudio\c#\FTDI_MPSSE_SPI_Test\FTDI_MPSSE_SPI_Test\bin\Debug\FTD2XX_NET.xml
+C:\Users\Joe\documentsIBMLocal\VisualStudio\c#\FTDI_MPSSE_SPI_Test\FTDI_MPSSE_SPI_Test\obj\Debug\FTDI_MPSSE_SPI_Test.csprojAssemblyReference.cache
+C:\Users\Joe\documentsIBMLocal\VisualStudio\c#\FTDI_MPSSE_SPI_Test\FTDI_MPSSE_SPI_Test\obj\Debug\FTDI_MPSSE_SPI_Test.csproj.CoreCompileInputs.cache
+C:\Users\Joe\documentsIBMLocal\VisualStudio\c#\FTDI_MPSSE_SPI_Test\FTDI_MPSSE_SPI_Test\obj\Debug\FTDI_MPSSE_SPI_Test.csproj.CopyComplete
+C:\Users\Joe\documentsIBMLocal\VisualStudio\c#\FTDI_MPSSE_SPI_Test\FTDI_MPSSE_SPI_Test\obj\Debug\FTDI_MPSSE_SPI_Test.exe
+C:\Users\Joe\documentsIBMLocal\VisualStudio\c#\FTDI_MPSSE_SPI_Test\FTDI_MPSSE_SPI_Test\obj\Debug\FTDI_MPSSE_SPI_Test.pdb
